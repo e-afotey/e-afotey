@@ -1,3 +1,1 @@
-Hi, I’m Afotey. I’m interested in C, Python, SQL, HTML, CSS, Javascript. I’m currently learning Python. How to reach me IDK.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I Love Coding and I'm in Grade 5
+Hello, my name is Afotey. I'm a dedicated and driven individual with a passion for Coding with languages like C, Python, Javascript, HTML and CSS. I enjoy working on projects that challenge me to grow and make a meaningful impact. Whether collaborating with a team or taking initiative independently, I strive to bring fun and enthusiasm to everything I do.
