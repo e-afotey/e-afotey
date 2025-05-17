@@ -1,3 +1,0 @@
-Hello, my name is Afotey. I'm a dedicated and driven individual with a passion for Coding with languages like C, Python, Javascript, HTML and CSS6.
-I enjoy working on projects that challenge me to grow and make a meaningful impact. Whether collaborating with a team or taking initiative independently,
-I strive to bring fun and enthusiasm to everything I do.
