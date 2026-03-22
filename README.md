@@ -1,11 +1,17 @@
 MY NAME IS EPHRAIM AFOTEY DANIELS
 
-I am a young aspiring web developer. I was introduced to Web-Development by my Father. I live Ghana and began My web development career in 2022. Since 2022, I was Intrested in HTML , CSS, JavaScript, SQL. Currently Learning Javascript.
+I am a young aspiring web developer.
 
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/0294a192-144d-4855-9736-040fe7b614df) 78%
+I was introduced to Web-Development by my Father.
 
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/0dae30cb-9eb2-4083-aef5-fc16c3f9f60a) 82%
+I live Ghana and began My web development career in 2022.
 
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145](https://github.com/user-attachments/assets/6df95066-6e02-41fc-b10a-f67d9825111f) 25%
+Since 2022, I was Intrested in HTML , CSS, JavaScript, SQL. Currently Learning Javascript.
+
+MY SKILLS
+1. HTML - 81%.
+2. CSS - 85%.
+3. JS - 35%.
+
 
 
