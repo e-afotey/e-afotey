@@ -1,4 +1,4 @@
-![html5-original-wordmark](https://github.com/user-attachments/assets/d5b011fe-fb7b-4b03-8df0-16eb26afa239)MY NAME IS EPHRAIM AFOTEY DANIELS
+MY NAME IS EPHRAIM AFOTEY DANIELS
 
 I am a young aspiring web developer.
 
@@ -9,12 +9,9 @@ I live Ghana and began My web development career in 2022.
 Since 2022, I was Intrested in HTML , CSS, JavaScript, SQL. Currently Learning Javascript.
 
 MY SKILLS:
-1. HTML - 81%.![Uploading html5-original-wordmark.svg…]()
-
-2. CSS - 85%.
-3. JS - 35%.
-
-
+1. HTML - 81%.![html5-original-wordmark](https://github.com/user-attachments/assets/d5b011fe-fb7b-4b03-8df0-16eb26afa239)
+2. CSS - 85%.![css3-original-wordmark](https://github.com/user-attachments/assets/de96a54e-d9b5-407d-908e-b94d0899a506)
+3. JS - 35%.![javascript-original](https://github.com/user-attachments/assets/12555830-a9e9-4792-903d-e2d1f6b5d020)
 
 FRONTEND
 
