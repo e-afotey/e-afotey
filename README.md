@@ -1,4 +1,5 @@
 MY NAME IS EPHRAIM AFOTEY DANIELS
+
 I am a young aspiring web developer. I was introduced to Web-Development by my Father. I live Ghana and began My web development career in 2022. Since 2022, I was Intrested in HTML , CSS, JavaScript, SQL. Currently Learning Javascript.
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/0294a192-144d-4855-9736-040fe7b614df) 78%
