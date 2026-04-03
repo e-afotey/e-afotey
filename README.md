@@ -1,21 +1,27 @@
-MY NAME IS EPHRAIM AFOTEY DANIELS
-
-I am a young aspiring web developer.
-
-I was introduced to Web-Development by my Father.
-
-I live Ghana and began My web development career in 2022.
-
-Since 2022, I was Intrested in HTML , CSS, JavaScript, SQL. Currently Learning Javascript.
-
-MY SKILLS:
-1. HTML - 81%.
-2. CSS - 85%.
-3. JS - 35%.
-
-FRONTEND
+# 💫 About Me:
+🔭 I’m currently working on: A portfolio <br>👯 I’m looking to collaborate on: Github<br>🤝 I’m looking for help with: Javascript<br>🌱 I’m currently learning: Javascript<br>💬 Ask me about: HTML, CSS and other things<br>⚡ Fun fact: I'm in 6th grade
 
 
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/d8263567-3828-4db5-9cdd-9e85bc9bcc76)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/a2d98519-e6d4-44f2-a31f-14eee1d1a191)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145](https://github.com/user-attachments/assets/957b0631-5322-4b2a-afa1-9595d4ce48a3)
+## 🌐 Socials:
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@e-afotey) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=e-afotey&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=e-afotey&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=e-afotey&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=e-afotey&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=e-afotey&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=e-afotey&icon=0&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
